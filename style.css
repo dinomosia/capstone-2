@@ -1,0 +1,59 @@
+.gradient-background {
+    background: rgb(34,193,195);
+background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+height: 100vh;
+}
+
+html {
+  font-size: 2rem;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  text-align: center;
+  }
+
+.hello {
+    color: #00d4ff;
+}
+  #dino {
+    font-family: "Sacramento", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.profile-image {
+    border: solid 2px #00d4ff;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.head {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.bottom {
+    height: 230px;
+    font-size: medium;   
+}
+.guitar {
+    float: none;
+    border: solid 2px #00d4ff;
+}
+.naruto {
+    float: none;
+    border: solid 2px #00d4ff;
+}
+.x-box {
+  
+  border: solid 2px #00d4ff;
+}
+
+
+
+   
